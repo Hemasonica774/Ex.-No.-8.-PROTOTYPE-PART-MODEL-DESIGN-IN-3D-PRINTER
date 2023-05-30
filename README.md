@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Hemasonica774/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118361409/a7a33a16-bff1-4901-a425-2b5b9b3e36a3)
+
+
+### Name: P.Hemasonica
+### Register Number: 212222230048
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
